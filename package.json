@@ -1,0 +1,15 @@
+{
+  "name": "serve-static",
+  "version": "1.0.0",
+  "description": "Serve static pages.Part 1/180 of node es6 projects in whatever time it takes. ",
+  "main": "index.js",
+  "scripts": {
+    "babel-node": "babel-node --presets es2015",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matti Leppänen",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-es2015": "^6.1.18"
+  }
+}
